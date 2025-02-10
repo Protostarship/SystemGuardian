@@ -38,18 +38,12 @@ sc delete SystemGuardian
 
 ## ⚙️ How It Works
 ### 🛡️ **Core Features**
-✅ **Real-time System Monitoring**
-- Watches **drivers, registry keys, and services** for changes.
-✅ **Automated Recovery** 
-- Restores **services, drivers, and registry keys** from backups.
-✅ **Integrity Protection**
-- Uses **SHA-256 file hashing** to detect modifications.
-✅ **Driver Verification**
-- Blocks **unsigned/unverified drivers**.
-✅ **Crash Prevention**
-- Detects system crashes and **creates restore points automatically**.
-✅ **Event Logging & Alerts**
-- Logs system failures and can **notify administrators**.
+✅ **Real-time System Monitoring** - Watches **drivers, registry keys, and services** for changes.
+✅ **Automated Recovery**  - Restores **services, drivers, and registry keys** from backups.
+✅ **Integrity Protection** - Uses **SHA-256 file hashing** to detect modifications.
+✅ **Driver Verification** - Blocks **unsigned/unverified drivers**.
+✅ **Crash Prevention** - Detects system crashes and **creates restore points automatically**.
+✅ **Event Logging & Alerts** - Logs system failures and can **notify administrators**.
 
 ### 🔄 **Recovery Process**
 1. **Detect** an issue (e.g., service failure, driver corruption).
