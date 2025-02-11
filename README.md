@@ -34,8 +34,6 @@ To remove the service completely from the system, execute:
 sc delete SystemGuardian
 ```
 
----
-
 ## ⚙️ How It Works
 ### 🛡️ **Core Features**
 ####✅ **Real-time System Monitoring** - Watches **drivers, registry keys, and services** for changes.
@@ -53,8 +51,6 @@ sc delete SystemGuardian
    - **Restore corrupted drivers from backups**.
    - **Rollback registry keys if altered**.
 4. **Notify the user** if intervention is required.
-
----
 
 ## 🔧 Configuration Management
 ### 🔹 Configuration File Location
